@@ -1,5 +1,15 @@
-### Hi there 👋
+## FrontEnd Engineer 
 
+- 시각적인 아름다움과 사용자 친화적인 UI에 대해 고민합니다.
+- 새로운 기술에 대해 학습하고 도전하는 것을 좋아합니다. 
+
+## Recent Interest 
+
+- langChain : LLM 모델을 활용한 Web 어플리케이션 개발
+- Next.js
+- GraphQL
+
+  
 <!--
 **dbstjrrb12/dbstjrrb12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
