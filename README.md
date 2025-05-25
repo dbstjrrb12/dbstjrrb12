@@ -31,7 +31,7 @@ Next.js, React.js, TypeScript 기반 웹 프론트엔드 개발자
 #### 퇴사몬(GoodBye-StressMonster)
 > deploy 👉 [goodbye-stressmonster.site](https://www.goodbye-stressmonster.site/signin)
 >
-> Github 👉 [salpinoff-FE](https://github.com/salpinoff/salpinoff_FE/tree/develop)
+> Github 👉 [salpinoff-FE](https://github.com/salpinoff/salpinoff_FE)
 - 직장에서 받은 스트레스를 귀여운 몬스터를 통해 친구들에게 공유하여 응원 메시지를 주고 받으며 해소하는 웹 서비스
 
 <!--
